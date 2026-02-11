@@ -9,8 +9,3 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/24a6099c-c760-4c48-924a-87957ca5869c/vglive-sk-293160/master.m3u8?hdnts=st%3D1770792151~exp%3D1770813751~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F24a6099c-c760-4c48-924a-87957ca5869c%2Fvglive-sk-293160%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.161.51.151_yuppfast_2_channel_249_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.161.51.151_yuppfast_2_channel_249_-1~hmac%3Df851297953c1651210388395e24f6712c7f83c2653a0bbd8a68c09eac39b5ee2|Host=m.zoom.us
-#EXTINF:-1 tvg-id="19" tvg-chno="203" tvg-name="republic-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/usnsgu.png" group-title="News", Republic TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yupprestreamliveus.akamaized.net/out/v1/vglive-sk-884117/243a5fabe7fe4c8fadf2cb7bcc0a5baf/main.m3u8?hdnts=st%3D1770792153~exp%3D1770813753~acl%3D%21%2A%2Fout%2Fv1%2Fvglive-sk-884117%2F243a5fabe7fe4c8fadf2cb7bcc0a5baf%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.161.51.151_yuppfast_2_channel_19_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.161.51.151_yuppfast_2_channel_19_-1~hmac%3D7e95b6c92d1594d2ab5a0339a4e6994f28725a4b68dbddec9739361a452d121d
